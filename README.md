@@ -73,7 +73,7 @@ npm install
 npm run dev
 ```
 
-**🌐 Live Demo:** [Deployment link will be added here]
+**🌐 Live Demo:** [[Demo Link]](https://fsd-sem-6.vercel.app/)
 
 ---
 
